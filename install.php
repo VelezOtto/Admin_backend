@@ -1,5 +1,5 @@
 <?
-CREATE TABLE IF NOT EXISTS `products` (
+CREATE TABLE IF NOT EXISTS `webshop` (
   `product_id` int(11) NOT NULL,
   `product_name` varchar(45) NOT NULL,
   `product_category` text(255) NOT NULL,
